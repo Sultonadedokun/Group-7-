@@ -31,9 +31,13 @@ We are using the following front-end technologies:
 - To sum up, HTML and CSS are designed to work together seamlessly. HTML elements can be styled using CSS to create a visually appealing and user-friendly web page. The CSS rules are applied to the HTML elements to enhance their appearance. So, we choose CSS. 
 
 Team responsibilities:
+
 **Sulton  Adedokun**: Creating and maintaining HTML and CSS styles.
+
 **Sabrina Yang**:
+
 **Kun Wang**: Answering the questions. 
+
 
 # Screenshots of Front End
 
