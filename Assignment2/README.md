@@ -35,7 +35,7 @@ Team responsibilities:
 **Sabrina Yang**:
 **Kun Wang**: Answering the questions. 
 
-# Screenshots of Your Front End
+# Screenshots of Front End
 
 [Login Page](screenshots/login_page.png)
 
