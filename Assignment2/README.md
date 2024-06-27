@@ -15,7 +15,8 @@ According to the feedback, we recognize the importance of addressing security an
 
 ## Front-End Technologies and Responsibilities
 We are using the following front-end technologies:
-- **HTML**: For structuring the web pages.
+
+**1. HTML**: For structuring the web pages.
 - why we choose HTML:
   HTML is the standard markup language for creating web pages. It provides the structure of the webpage by using elements such as headings, paragraphs, forms and buttons. Here are reasons we consider for using HTML in our Front-End development.
 - First of all, it is for all modern browsers and is widely supported and compatible. The wbd pages written in HTML can display correctly across various devices and browsers. Second, HTML can be seamlessly combined with other technologies, like CSS and JavaScript to provide rich web functionalities and styles.Third, HTML intergrates seamlessly with many modern development tools and frameworks like React, Angular, ect. Fourth, HTML is relatively simple and esay to learn and there are a lot of learning materials on the internet, and there are a lot of templates to refer to. We can use it more quickly for our project.
@@ -23,7 +24,7 @@ We are using the following front-end technologies:
 
 
   
-- **CSS**: For styling the components.
+**2. CSS**: For styling the components.
 - why we choose CSS:
 - CSS is a style sheet language used for describing the presentation and layout of HTML documents. CSS allows developers to control the appearence and layout of web pages, providing a better and more consistent user experience. Here are reasons we consider for using CSS.
 - First, CSS allows for the separation of style and content. Define style in CSS files, so that Html files can focus on structure and content. The maintainability and readability of the code are greatly improved. Second, using CSS allows us reuse the same style across multiple HTML files. By defining common style classes, we can ensure a consistent look and feel throughout your website. Third, because styles are no longer embedded in HTML, using external CSS files can reduce the size of the HTML file. As a result, CSS helps to improve page loading speed and performance to some extent. Fourth, CSS supports some technologies, like media queries(can create responsive designs that ensure websites look good on different devices and screen sizes) and visual effects and animations(can improve the user experience). At last, same to HTML, CSS is relatively simple and easy to learn and use and enables complex layout and designs. It's very friendly to our project.
@@ -32,7 +33,7 @@ We are using the following front-end technologies:
 Team responsibilities:
 - **Sulton  Adedokun**: Creating and maintaining HTML and CSS styles.
 - **Sabrina Yang**:
-- **Kun Wang**: 
+- **Kun Wang**: Answering the questions. 
 
 ## Screenshots of  Front End
 
@@ -40,4 +41,4 @@ Team responsibilities:
 | --- | --- | --- |
 | 1.Sulton  Adedokun |  ... | ... |
 | 2.Sabrina Yang | ... | ... |
-| 3.Kun Wang | ... | ... |
+| 3.Kun Wang | Compared with design of assignment 1, summarize the adjustmets and changes we are going to make. According to the design of assignment 1, clear the relationship between the structure and components of the system and the operation flow using UML diagrams.  Summarize our reasons for choosing these two technologies(HTML and CSS). | ... |
