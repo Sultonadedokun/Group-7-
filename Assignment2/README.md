@@ -1,9 +1,9 @@
 # Volunteer Management System
 
-## GitHub Repository Link
+# GitHub Repository Link
 https://github.com/Sultonadedokun/Group-7-/tree/main/Assignment2
 
-## Design and Development Methodology
+# Design and Development Methodology
 Our design and development methodology has changed since Assignment 1. 
 According to the feedback, we recognize the importance of addressing security and data privacy in our project, and we need to revise it. Here is our plan for integrating security and data privacy measures into our design and development process:  
 1) Initial Thoughts: Address Security and Data Privacy Considerations
@@ -13,7 +13,7 @@ According to the feedback, we recognize the importance of addressing security an
 3) High-Level Design / Architecture: Enhanced Architecture Diagram
    Includes security components, such as such as authentication services and data encryption services. Specify HTTPS for secure data transfer.
 
-## Front-End Technologies and Responsibilities
+# Front-End Technologies and Responsibilities
 We are using the following front-end technologies:
 
 **1. HTML**: For structuring the web pages.
@@ -31,21 +31,29 @@ We are using the following front-end technologies:
 - To sum up, HTML and CSS are designed to work together seamlessly. HTML elements can be styled using CSS to create a visually appealing and user-friendly web page. The CSS rules are applied to the HTML elements to enhance their appearance. So, we choose CSS. 
 
 Team responsibilities:
-- **Sulton  Adedokun**: Creating and maintaining HTML and CSS styles.
-- **Sabrina Yang**:
-- **Kun Wang**: Answering the questions. 
+**Sulton  Adedokun**: Creating and maintaining HTML and CSS styles.
+**Sabrina Yang**:
+**Kun Wang**: Answering the questions. 
 
 # Screenshots of Your Front End
+
 [Login Page](screenshots/login_page.png)
+
 [Registration Page](screenshots/registration_page.png)
+
 [User Profile Page](screenshots/user_profile_page.png)
+
 [Event Management Page](screenshots/event_management_page.png)
+
 [Volunteer Matching Page](screenshots/volunteer_matching_page.png)
+
 [Notification System Page](screenshots/notification_system_page.png)
+
 [Volunteer History Page](screenshots/volunteer_history_page.png)
 
 | Group Member Name | What is your contribution? | Disscussion Note |
 | --- | --- | --- |
-| 1.Sulton  Adedokun |  ... | ... |
+| 1.Sulton  Adedokun |  I developed the HTML and CSS for our project. This involved creating the structure for various pages, including login, registration, user profile, event management, volunteer matching, notifications, and volunteer history. I ensured the HTML was semantic and accessible, and used CSS to create a consistent, responsive design.  | Developed and styled forms for registration, profile management, and event management.
+Created volunteer matching and notification pages. |
 | 2.Sabrina Yang | ... | ... |
 | 3.Kun Wang | Compared with design of assignment 1, summarize the adjustmets and changes we are going to make. According to the design of assignment 1, clear the relationship between the structure and components of the system and the operation flow using UML diagrams.  Summarize our reasons for choosing these two technologies(HTML and CSS). | ... |
