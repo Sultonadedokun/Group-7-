@@ -34,7 +34,7 @@ Team responsibilities:
 
 **Sulton  Adedokun**: Creating and maintaining HTML and CSS styles.
 
-**Sabrina Yang**:
+**Sabrina Yang**: Design project structure.
 
 **Kun Wang**: Answering the questions. 
 
@@ -59,5 +59,5 @@ Team responsibilities:
 | --- | --- | --- |
 | 1.Sulton  Adedokun |  I developed the HTML and CSS for our project. This involved creating the structure for various pages, including login, registration, user profile, event management, volunteer matching, notifications, and volunteer history. I ensured the HTML was semantic and accessible, and used CSS to create a consistent, responsive design.  | Developed and styled forms for registration, profile management, and event management.
 Created volunteer matching and notification pages. |
-| 2.Sabrina Yang | ... | ... |
+| 2.Sabrina Yang | Developed a responsive and visually appealing interface using HTML and CSS, allowing users to easily navigate through registration, profile management, and event management features. | We discussed various front-end technologies and collectively decided to utilize HTML and CSS for this project to ensure a clean, responsive, and user-friendly interface. |
 | 3.Kun Wang | Compared with design of assignment 1, summarize the adjustmets and changes we are going to make. According to the design of assignment 1, clear the relationship between the structure and components of the system and the operation flow using UML diagrams.  Summarize our reasons for choosing these two technologies(HTML and CSS). | ... |
