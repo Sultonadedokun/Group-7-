@@ -35,7 +35,14 @@ Team responsibilities:
 - **Sabrina Yang**:
 - **Kun Wang**: Answering the questions. 
 
-## Screenshots of  Front End
+# Screenshots of Your Front End
+[Login Page](screenshots/login_page.png)
+[Registration Page](screenshots/registration_page.png)
+[User Profile Page](screenshots/user_profile_page.png)
+[Event Management Page](screenshots/event_management_page.png)
+[Volunteer Matching Page](screenshots/volunteer_matching_page.png)
+[Notification System Page](screenshots/notification_system_page.png)
+[Volunteer History Page](screenshots/volunteer_history_page.png)
 
 | Group Member Name | What is your contribution? | Disscussion Note |
 | --- | --- | --- |
