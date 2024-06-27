@@ -5,13 +5,29 @@ https://github.com/Sultonadedokun/Group-7-/tree/main/Assignment2
 
 ## Design and Development Methodology
 Our design and development methodology has changed since Assignment 1. 
+According to the feedback, we recognize the importance of addressing security and data privacy in our project, and we need to revise it. Here is our plan for integrating security and data privacy measures into our design and development process:  
+1) Initial Thoughts: Address Security and Data Privacy Considerations
+   Use HTTP to ensure secure data transmission and implement a strong password policy and store passwords securely. Periodcally update dependencies to fix known vulnerabilities. 
+2) Development Methodology: Incorporating Security and Privacy in Agile Methodology
+   We need gather more requrements including security and privacy requirements. Periodically review and integrate feedback from stakeholders on security. Ensure that user data is protected and privacy policies are transparent.
+3) High-Level Design / Architecture: Enhanced Architecture Diagram
+   Includes security components, such as such as authentication services and data encryption services. Specify HTTPS for secure data transfer.
 
 ## Front-End Technologies and Responsibilities
 We are using the following front-end technologies:
 - **HTML**: For structuring the web pages.
-- why we choose HTML: HTML is the standard markup language for creating web pages. It provides the structure of the webpage by using elements such as headings, paragraphs, forms and buttons. Here are reasons we consider for using HTML in our Front-End development. First of all, it is for all modern browsers and is widely supported and compatible. The wbd pages written in HTML can display correctly across various devices and browsers. Second, HTML can be seamlessly combined with other technologies, like CSS and JavaScript to provide rich web functionalities and styles.Third, HTML intergrates seamlessly with many modern development tools and frameworks like React, Angular, ect. Fourth, HTML is relatively simple and esay to learn and there are a lot of learning materials on the internet, and there are a lot of templates to refer to. We can use it more quickly for our project. To sum up, We think HTML is the best choice and HTML will help us execute subsequent stage of design and development better. 
-- 
+- why we choose HTML:
+  HTML is the standard markup language for creating web pages. It provides the structure of the webpage by using elements such as headings, paragraphs, forms and buttons. Here are reasons we consider for using HTML in our Front-End development.
+- First of all, it is for all modern browsers and is widely supported and compatible. The wbd pages written in HTML can display correctly across various devices and browsers. Second, HTML can be seamlessly combined with other technologies, like CSS and JavaScript to provide rich web functionalities and styles.Third, HTML intergrates seamlessly with many modern development tools and frameworks like React, Angular, ect. Fourth, HTML is relatively simple and esay to learn and there are a lot of learning materials on the internet, and there are a lot of templates to refer to. We can use it more quickly for our project.
+- To sum up, We think HTML is the best choice and HTML will help us execute subsequent stage of design and development better. 
+
+
+  
 - **CSS**: For styling the components.
+- why we choose CSS:
+- CSS is a style sheet language used for describing the presentation and layout of HTML documents. CSS allows developers to control the appearence and layout of web pages, providing a better and more consistent user experience. Here are reasons we consider for using CSS.
+- First, CSS allows for the separation of style and content. Define style in CSS files, so that Html files can focus on structure and content. The maintainability and readability of the code are greatly improved. Second, using CSS allows us reuse the same style across multiple HTML files. By defining common style classes, we can ensure a consistent look and feel throughout your website. Third, because styles are no longer embedded in HTML, using external CSS files can reduce the size of the HTML file. As a result, CSS helps to improve page loading speed and performance to some extent. Fourth, CSS supports some technologies, like media queries(can create responsive designs that ensure websites look good on different devices and screen sizes) and visual effects and animations(can improve the user experience). At last, same to HTML, CSS is relatively simple and easy to learn and use and enables complex layout and designs. It's very friendly to our project.
+- To sum up, HTML and CSS are designed to work together seamlessly. HTML elements can be styled using CSS to create a visually appealing and user-friendly web page. The CSS rules are applied to the HTML elements to enhance their appearance. So, we choose CSS. 
 
 Team responsibilities:
 - **Sulton  Adedokun**: Creating and maintaining HTML and CSS styles.
@@ -19,3 +35,9 @@ Team responsibilities:
 - **Kun Wang**: 
 
 ## Screenshots of  Front End
+
+| Group Member Name | What is your contribution? | Disscussion Note |
+| --- | --- | --- |
+| 1.Sulton  Adedokun |  ... | ... |
+| 2.Sabrina Yang | ... | ... |
+| 3.Kun Wang | ... | ... |
